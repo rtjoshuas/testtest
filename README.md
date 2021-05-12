@@ -20,7 +20,7 @@ width="30%">  // HTML로 씀
 
 번호 없는 목록 :
  - [리스트1 상대경로](Secondfile.md)
- - [리스트1 절경로](./Secondfile.md)
+ - [리스트1 절대경로](./Secondfile.md)
      - 서브1
      - 서브2
  - 리스트2
