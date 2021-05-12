@@ -1,10 +1,10 @@
 # 서버에서 제공하는 이미지
 
-절경로:
+절대경로:
 <img src="https://github.com/rtjoshuas/testtest/blob/main/googlelogo_color_272x92dp.png">
 ![](https://github.com/rtjoshuas/testtest/blob/main/googlelogo_color_272x92dp.png)
 
-상경로:
+상대경로:
 ![](googlelogo_color_272x92dp.png)
 
 ---
